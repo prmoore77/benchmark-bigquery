@@ -1,0 +1,4 @@
+.env
+.venv/
+.idea/
+src/benchmark_bigquery.egg-info/
